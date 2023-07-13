@@ -1,6 +1,6 @@
 # GOEMON
 
-<div style="padding: 35px;color:white;margin:10;font-size:200%;text-align:center;display:fill;border-radius:10px;overflow:hidden;background-image: url(https://images.pexels.com/photos/380337/pexels-photo-380337.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)"><b><span style='color:black'>Getting Started </span></b> </div>
+<div style="padding: 35px;color:white;margin:10;font-size:200%;text-align:center;display:fill;border-radius:10px;overflow:hidden;background-image: pexels-photo-380337.webp"><b><span style='color:black'>Getting Started </span></b> </div>
 
 <br>
 
